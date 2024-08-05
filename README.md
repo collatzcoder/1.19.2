@@ -1,7 +1,7 @@
 
-Welcome to the uh, trackwork repo
+Welcome to the uh, trackwork repo for 1.19.2 port
 
-I'm not gonna decorate this cause its not something you should be looking at often, if at all
+If you can help please look at my stuff and help me fix issues.
 
 ## Credits
 Textures and models derived from [Create Mod](https://github.com/Creators-of-Create/Create)
